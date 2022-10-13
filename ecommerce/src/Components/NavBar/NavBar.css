@@ -1,0 +1,14 @@
+.containerNavBar{
+    position: fixed;
+    top: 0;
+}
+.logo{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 30%;
+}
+
+.titleLogo{
+    font-size: .6rem;
+    margin-left: 5px;
+}
