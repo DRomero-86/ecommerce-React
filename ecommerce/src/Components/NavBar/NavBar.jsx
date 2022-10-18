@@ -7,7 +7,7 @@ function NavBar() {
     <>
       <nav className="containerNavBar container-fluid bg-dark d-flex text-white align-items-center">
         <div className="containerLogo mt-1 w-25" >
-          <a className=" navbar-brand d-flex align-items-baseline navbarLogo">
+          <a className="navbar-brand d-flex align-items-baseline navbarLogo">
             <img className="logo" src={logo} alt="Logo"></img>
             <h1 className="titleLogo text-white my-3">DISTRIBUIDORA DROM</h1>
           </a>
