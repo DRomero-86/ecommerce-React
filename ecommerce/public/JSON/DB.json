@@ -1,10 +1,10 @@
-const DB = [
+[
     {"id":1,
     "description": "Acuarela escolar de 12 colores con un pincel de regalo",
     "model": "Stick",
     "brand": "Filgo",
     "price": 60,
-    "img": "https:via.placeholder.com/180/1",
+    "img": "https://i.postimg.cc/tJ2nD4Pb/acuarela-filgo.jpg",
     "category": "Escolar",
     "stock": 10,
     "qty": 1
@@ -15,7 +15,7 @@ const DB = [
     "model": "Trick",
     "brand": "Sta",
     "price": 20,
-    "img": "https:via.placeholder.com/150/blue",
+    "img": "https://i.postimg.cc/LsLqwTfN/adhesivo-vinilico-sta.jpg",
     "category": "Escolar",
     "stock": 13,
     "qty": 1
@@ -23,10 +23,10 @@ const DB = [
 
     {"id":3,
     "description": "Boligrafo con cuerpo triangular punta 1mm",
-    "model": "Trilix",
+    "model": "Trilux",
     "brand": "Faber Castell",
     "price": 42,
-    "img": "https:via.placeholder.com/150/red",
+    "img": "https://i.postimg.cc/YCJGdV4v/boligrafo-faber-trilux.jpg",
     "category": "Escolar",
     "stock": 20,
     "qty": 1
@@ -37,8 +37,8 @@ const DB = [
     "model": "Plash",
     "brand": "Filgo",
     "price": 30,
-    "img": "https:via.placeholder.com/150/green",
-    "category": "Escolar",
+    "img": "https://i.postimg.cc/Ss4XhMfq/corrector-filgo.jpg",
+    "category": "Comercial",
     "stock": 12,
     "qty": 1
     },
@@ -48,7 +48,7 @@ const DB = [
     "model": "plain", 
     "brand": "Faber Castell",
     "price":70,
-    "img": "https:via.placeholder.com/150/white",
+    "img": "https://i.postimg.cc/CLp80dSc/crayones-faber.png",
     "category": "Escolar",
     "stock": 15,
     "qty": 1
@@ -59,7 +59,7 @@ const DB = [
     "model": "Mito",
     "brand": "Ezco",
     "price":130,
-    "img":"https:via.placeholder.com/150/brow",
+    "img":"https://i.postimg.cc/nrcCsfWP/marcador-escolar-ezco.jpg",
     "category":"Escolar",
     "stock": 18,
     "qty": 1
@@ -70,7 +70,7 @@ const DB = [
     "model": "Flex",
     "brand": "Maped",
     "price":45,
-    "img":"https:via.placeholder.com/150/violet",
+    "img":"https://i.postimg.cc/fLvVTR8d/regla-maped15.jpg",
     "category":"Escolar",
     "stock": 15,
     "qty": 1
@@ -81,7 +81,7 @@ const DB = [
     "model":"Technic",
     "brand": "Maped",
     "price":90,
-    "img":"https:via.placeholder.com/150/pink",
+    "img":"https://i.postimg.cc/ncKDhZLp/goma-maped.jpg",
     "category":"Comercial",
     "stock": 12,
     "qty": 1
@@ -92,21 +92,20 @@ const DB = [
     "model": "GoldFaber",
     "brand": "Faber Castell",
     "price": 40,
-    "img": "https:via.placeholder.com/150/blue0",
+    "img": "https://i.postimg.cc/8z1rF3FW/lapiz-faber.png",
     "category": "Escolar",
     "stock": 10,
     "qty": 1
     },
 
     {"id":10,
-    "description": "Resma A4 75gr 500hojas",
+    "description": "Resma Autor papel en acabado mate. presentación pack de 500hj con un tamaño A4 y gramaje de 75gr",
     "model": "Autor",
     "brand": "Ledesma",
     "price": 500,
-    "img": "https:via.placeholder.com/150/blue5",
+    "img": "https://i.postimg.cc/x1tNLRHZ/resma-autor.png",
     "category": "Papelera",
     "stock": 10,
     "qty":1
     }
-];
-
+]
